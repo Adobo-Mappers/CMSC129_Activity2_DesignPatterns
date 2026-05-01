@@ -5,11 +5,12 @@
 
 ## Table of Contents
 
-- [A. App Summary](#app-summary)
-- [B. Design Pattern Implementations](#design-pattern-implementations)
-  - [Creational: Builder (Bob the Bridge Builder)](#creational--builder-persistent-shared-lobby-construction)
-  - [Behavioral: Observer (Love and Subscribe)](#behavioral--observer-notification-system)
-  - [Structural: Facade (It’s Complicated)](#structural--facade-academic-game-generation-pipeline)
+- [A. App Summary](#a-app-summary)
+- [B. Design Pattern Implementations](#b-design-pattern-implementations)
+  - [Creational](#creational)
+  - [Behavioral](#behavioral)
+  - [Structural](#structural)
+
 
 ---
 ## A. App Summary
